@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "com.nebula.spring.upload.StorageProperties",
+      "sourceType": "com.nebula.spring.upload.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "com.nebula.spring.upload.StorageProperties"
+    }
+  ],
+  "hints": []
+}
